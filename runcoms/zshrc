@@ -407,8 +407,6 @@ export PATH="/opt/homebrew/opt/postgresql@15/bin:$HOME/.local/share/nvim/mason/b
 
 export GPG_TTY=$(tty)
 
-source ~/.secrets/env
-eval "$(pyenv init -)"
 # export PATH="/opt/homebrew/anaconda3/bin:$PATH"  # commented out by conda initialize
 
 # >>> conda initialize >>>
